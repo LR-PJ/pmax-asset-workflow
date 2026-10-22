@@ -1,0 +1,4 @@
+interface:
+  display_name: "PMax 跨品牌素材工作流"
+  short_description: "适用于不同品牌的 PMax 产品分析、图片文案、分阶段审核与可选发布"
+  default_prompt: "使用 $pmax-asset-workflow，根据本项目的产品链接、原图与品牌资料制作 PMax 图片和文案，默认三阶段审核。"
